@@ -6,8 +6,8 @@
 $name = $_POST['user_name'];
 $email = $_POST['user_email'];
 $text = $_POST['user_text'];
-$token = "5961634997:AAHaZ9BnnrtdftSSoBBcaui8poTpQPlKzDM";
-$chat_id = "-804649736";
+$token = "5991634997:AAHaZ9BnnrtdftSSoBBcaui8poTpQPlKzDM";
+$chat_id = "-304649736";
 $arr = array(
   'Имя клиента: ' => $name,
   'Email: ' => $email,
