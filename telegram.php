@@ -1,8 +1,5 @@
 <?php
 
-/* https://api.telegram.org/botххххххххххххххххххххххххх/getUpdates,
-где, XXXXXXXXXXXXXXXXXXXXXXX - токен вашего бота, полученный ранее */
-
 $name = $_POST['user_name'];
 $email = $_POST['user_email'];
 $text = $_POST['user_text'];
